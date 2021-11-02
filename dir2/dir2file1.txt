@@ -1,2 +1,0 @@
-dir2file1
-edit line 1

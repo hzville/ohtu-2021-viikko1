@@ -1,4 +1,0 @@
-file2
-edit line 1
-edit line 2
-edit line 3
