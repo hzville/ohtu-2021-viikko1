@@ -1,2 +1,2 @@
-# ohtu-2021-viikko1
-Helsingin yliopisto ohjelmistotuotanto 2021
+## ohtu-2021-viikko1
+
